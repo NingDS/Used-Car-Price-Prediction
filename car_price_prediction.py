@@ -4,7 +4,6 @@ import pandas as pd
 import csv
 import re
 import numpy as np
-from sklearn.neighbors import KNeighborsRegressor
 import xgboost as xgb
 from sklearn.preprocessing import RobustScaler
 from sklearn.preprocessing import QuantileTransformer
