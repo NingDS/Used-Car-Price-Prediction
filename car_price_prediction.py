@@ -4,8 +4,9 @@ import pandas as pd
 import csv
 import re
 import numpy as np
+
+!pip install xgboost
 import xgboost as xgb
-from sklearn.preprocessing import RobustScaler
 from sklearn.preprocessing import QuantileTransformer
 
 from sklearn.model_selection import train_test_split
