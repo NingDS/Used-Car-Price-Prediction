@@ -5,7 +5,6 @@ import csv
 import re
 import numpy as np
 
-pip install xgboost
 import xgboost as xgb
 from sklearn.preprocessing import QuantileTransformer
 
