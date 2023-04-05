@@ -7,3 +7,6 @@ My model is able to predict up to 97% accuracy of the car price among the listin
 Using the Streamlit application that I developed, car owners are now able to get a quote instantly and make an informed decision on how to sell their car. 
 
 Link to "Used Car Price Prediction" Streamlit prototype: https://ningds-used-car-price-prediction-car-price-prediction-p9tgwn.streamlit.app/
+
+Caveat: Cars above SGD 500,000 and brands such as Bentley, Rolls-Royce and Maybach are not included in the scope of this project. If you are fortunate enough to own this type of car, do work with a trustworthy car dealer to get a fair quote on your car. 
+
